@@ -18,6 +18,6 @@ status-website:
   navbar:
     - title: Status
       href: /
-  theme: night
+  theme: ocean
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
