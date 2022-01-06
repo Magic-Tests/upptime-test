@@ -5,6 +5,10 @@ repo: upptime-test # The name of this repository
 sites:
   - name: MagicLike
     url: $MAGICLIKE
+    expectedStatusCodes:
+      - 20x
+      - 30x
+      - 403
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
