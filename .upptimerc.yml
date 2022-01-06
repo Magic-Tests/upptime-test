@@ -6,8 +6,10 @@ sites:
   - name: MagicLike
     url: $MAGICLIKE
     expectedStatusCodes:
-      - 20x
-      - 30x
+      - 200
+      - 201
+      - 301
+      - 302
       - 403
 
 status-website:
