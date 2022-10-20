@@ -2,7 +2,7 @@
   {
     "name": "MagicLike",
     "url": "$MAGICLIKE",
-    "icon": "https://favicons.githubusercontent.com/null",
+    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "magic-like",
     "status": "up",
     "uptime": "100.00%",
@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 87,
-    "timeDay": 128,
-    "timeWeek": 128,
-    "timeMonth": 128,
+    "timeDay": 140,
+    "timeWeek": 140,
+    "timeMonth": 140,
     "timeYear": 87,
     "dailyMinutesDown": {}
   }
