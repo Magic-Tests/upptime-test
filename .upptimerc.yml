@@ -27,8 +27,8 @@ status-website:
   theme: night
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
-  scripts:
-    - src: var _paq = window._paq = window._paq || [];
+
+js: var _paq = window._paq = window._paq || [];
 _paq.push(['trackPageView']);
 _paq.push(['enableLinkTracking']);
 (function () {
@@ -38,4 +38,3 @@ _paq.push(['enableLinkTracking']);
     var d = document, g = d.createElement('script'), s = d.getElementsByTagName('script')[0];
     g.async = true; g.src = u + 'matomo.js'; s.parentNode.insertBefore(g, s);
 })();
-      async: true
